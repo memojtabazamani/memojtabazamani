@@ -65,20 +65,6 @@ const mojtaba = {
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mojtaba-zamani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mojtaba-zamani&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mojtaba-zamani&theme=tokyonight&hide_border=true&background=0d1117" />
-</div>
-
----
-
 ## 🌐 Languages
 
 | Language | Reading | Writing | Speaking | Listening |
@@ -93,17 +79,5 @@ const mojtaba = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mojtaba-zamani-b8243a391/)
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-
-*"متعهد به بهبود مستمر و ارتقاء کیفیت پروژه‌ها"*
-**— Mojtaba Zamani**
 
 </div>
