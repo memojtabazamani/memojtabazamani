@@ -27,7 +27,7 @@ const mojtaba = {
   role:       "Full-Stack Developer & Game Developer",
   education:  "Associate's in Computer Engineering – Software | GPA: 17.15/20",
   focus:      ["Web Apps", "REST APIs", "Game Dev", "UI/UX"],
-  currently:  "PHP Developer @ Holdin Rahbarian – Robin Samaneh Pars",
+  currently:  "PHP Developer @ Holding Rahbarian – Robin Samaneh Pars",
   philosophy: "Clean code, creative solutions, continuous growth 🚀",
 };
 ```
