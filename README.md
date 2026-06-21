@@ -23,10 +23,10 @@
 ```typescript
 const mojtaba = {
   name:       "Mojtaba Zamani",
-  location:   "Neyshabur, Khorasan Razavi, Iran 📍",
-  role:       "Full-Stack Developer & Game Developer",
+  location:   "Iran 📍",
+  role:       "Full-Stack Developer",
   education:  "Associate's in Computer Engineering – Software | GPA: 17.15/20",
-  focus:      ["Web Apps", "REST APIs", "Game Dev", "UI/UX"],
+  focus:      ["Web Apps", "REST APIs", "UI/UX"],
   currently:  "PHP Developer @ Holding Rahbarian – Robin Samaneh Pars",
   philosophy: "Clean code, creative solutions, continuous growth 🚀",
 };
@@ -59,10 +59,6 @@ const mojtaba = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Cordova](https://img.shields.io/badge/Cordova-E8E8E8?style=for-the-badge&logo=apachecordova&logoColor=black)
-
-### 🎮 Game Development
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 
 ## 🌐 Languages
